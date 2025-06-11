@@ -1,0 +1,5 @@
+baseURL = 'https://nanifish.github.io/'
+languageCode = 'en-us'
+title = 'Nanifish blog'
+
+theme = "hugo-xmin"
