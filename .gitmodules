@@ -1,0 +1,8 @@
+[submodule "nanifish/private"]
+	path = nanifish/private
+	url = https://github.com/MorganiMix/nanifish.github.io.git
+	branch = main
+[submodule "nanifish/public"]
+	path = nanifish/public
+	url = https://github.com/MorganiMix/nanifish.github.io.git
+	branch = main
