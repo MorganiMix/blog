@@ -1,7 +1,18 @@
-+++
-date = '2025-06-12'
-title = 'Starting your Homelab Journey: A Beginner's Guide'
-+++
+---
+title: 'Starting your Homelab Journey: A Beginners Guide'
+author: Morgan Ho
+date: '2025-06-12'
+categories:
+  - Example
+  - Hugo
+tags:
+  - blogdown
+  - Markdown
+  - MathJax
+  - Pandoc
+  - RStudio
+---
+
 
 # 1. Why start your Homelab
 A Homelab is a personal lab for testing tech, networking, servers, etc. It provides the following benefits.
