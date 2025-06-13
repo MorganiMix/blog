@@ -102,8 +102,8 @@ class Solution:
         ishappynumber = False
         # initialise the list of totals 
         recordtotal = []
-        # repeat 10 times as placeholder
-        for j in range(10):
+        # infinite loop
+        while True:
             total = 0
             # find the number of digits of a number.
             length = len(str(n)) 
