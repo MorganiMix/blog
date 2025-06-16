@@ -16,17 +16,17 @@ The question asks me to write an algorithm to determine if a number is happy. A 
 
 In short, write some code that returns true if n is a happy number, and false if not.
 
-Example 1:
-    Input: n = 19
-    Output: true
-    Explanation:
-    1^2 + 9^2 = 82
-    8^2 + 2^2 = 68
-    6^2 + 8^2 = 100
+Example 1:\
+    Input: n = 19\
+    Output: true\
+    Explanation:\
+    1^2 + 9^2 = 82\
+    8^2 + 2^2 = 68\
+    6^2 + 8^2 = 100\
     1^2 + 0^2 + 0^2 = 1
 
-Example 2:
-    Input n = 2
+Example 2:\
+    Input n = 2\
     Output: false
 
 # My approach to the problem
