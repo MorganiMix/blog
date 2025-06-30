@@ -62,7 +62,7 @@ class Solution:
                 # a number with modulus 10 is the last digit. Square it.
                 total += (n%10)**2
                 # integer division by 10 to find the second last digit, third last and so on.
-                 = n//10
+                n = n//10
             # repeat the same process with previous result 
             n = total
             print(total)
@@ -84,7 +84,7 @@ class Solution:
                 # a number with modulus 10 is the last digit. Square it.
                 total += (n%10)**2
                 # integer division by 10 to find the second last digit, third last and so on.
-                 = n//10
+                n = n//10
             # repeat the same process with previous result
             n = total
             print(total)
@@ -112,7 +112,7 @@ class Solution:
                 # a number with modulus 10 is the last digit. Square it.
                 total += (n%10)**2
                 # integer division by 10 to find the second last digit, third last and so on.
-                 = n//10
+                n = n//10
             # repeat the same process with previous result
             n = total
             print(total)
