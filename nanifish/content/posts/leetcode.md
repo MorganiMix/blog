@@ -27,7 +27,17 @@ Example 1:\
 
 Example 2:\
     Input n = 2\
-    Output: false
+    Output: false\
+    Explanation:\
+    2^2 = 4\
+    4^2 = 16\
+    1^2 + 6^2 = 37\
+    3^2 + 7^2 = 58\
+    5^2 + 8^2 = 89\
+    8^2 + 9^2 = 145\
+    1^2 + 4^2 + 5^2 = 42\
+    4^2 + 2^2 = 20\
+    2^2 = 4
 
 # My approach to the problem
 Let's start out with something easy. First, I create a variable 'total' to calculate the sum of the squares of its digits for 1 iteration.
